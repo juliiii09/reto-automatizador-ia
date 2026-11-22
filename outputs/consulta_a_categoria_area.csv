@@ -1,0 +1,11 @@
+categoria,area,total_solicitudes
+ACTUALIZACION_DATOS,Comercial,1
+ACTUALIZACION_DATOS,Sin área,1
+CERTIFICADO_LABORAL,Comercial,2
+CERTIFICADO_LABORAL,Sin nómina,1
+INCAPACIDAD,Operaciones,1
+INCAPACIDAD,Tecnología,1
+OTRO,Talento Humano,1
+VACACIONES,Finanzas,1
+VACACIONES,Operaciones,1
+VACACIONES,Tecnología,2
